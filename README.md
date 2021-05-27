@@ -9,8 +9,7 @@ X cm / X cm
 ### Material 
 
 - X m Madeira MDF
-- X tela lcd
-- X lixa X
+- 1 tela lcd
 
 ### Software
 
