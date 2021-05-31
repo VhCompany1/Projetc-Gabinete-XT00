@@ -1,3 +1,4 @@
+@ -1,10 +0,0 @@
 @echo off
 
 IF %1.gif EQU .gif (
@@ -7,4 +8,3 @@ IF %1.gif EQU .gif (
 )
 
 exit
-
