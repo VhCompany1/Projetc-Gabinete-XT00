@@ -1,3 +1,5 @@
+@echo off
+
 IF %1.gif EQU .gif (
     echo você precisa passar um argumento
 ) ELSE (
