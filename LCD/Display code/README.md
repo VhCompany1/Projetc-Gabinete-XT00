@@ -1,6 +1,6 @@
 # Display code
 
-O display code foi um codigo criado por [VhCompany](https://github.com/VhComapany1) para o [XT00](https://github.com/VhCompany1/Projetc-Gabinete-XT00) ele faz com que uma imagem desejada abra apenas com um comando assim fica mais facil monitorar um display
+O display code foi um codigo criado por [VhCompany](https://github.com/VhCompany1) para o [XT00](https://github.com/VhCompany1/Projetc-Gabinete-XT00) ele faz com que uma imagem desejada abra apenas com um comando assim fica mais facil monitorar um display
 
 ### Dependencias
 
