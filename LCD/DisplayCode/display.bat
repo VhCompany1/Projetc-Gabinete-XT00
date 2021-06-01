@@ -5,7 +5,7 @@ color %cor%
 IF %1 EQU img (
       start Ad\img.bat %2
 
-      echo Voce abriu a img %2
+      echo Voce abriu a imagem %2
 ) ELSE IF %1 EQU gif (
       start Ad\gif.bat %2
 
