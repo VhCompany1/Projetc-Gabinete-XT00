@@ -1,6 +1,8 @@
 @echo off
 
-start Imagens/%1.jpg
+../config.bat
+
+start %resulution%/Imagens/%1.jpg
 
 exit
 

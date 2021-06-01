@@ -1,5 +1,7 @@
 @echo off
 
-start Gifs/%1.gif
+../config.bat
+
+start %resulution%/Gifs/%1.gif
 
 exit
