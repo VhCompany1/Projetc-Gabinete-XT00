@@ -36,6 +36,11 @@ IF %1 EQU reload (
       start https://github.com/VhCompany1/Projetc-Gabinete-XT00/tree/main/LCD/DisplayCode
 
       echo Voce abriu o link oficial do DisplayCode.
+) ELSE IF %1 EQU config (
+      echo configuracoes atuais:
+      echo Cor: %cor%
+      echo Resolucao: %resulution%
+      echo Mode de Mensagem: %message%
 ) ELSE (
       echo Argumento invalido use display help para ter uma ajuda.
 )
