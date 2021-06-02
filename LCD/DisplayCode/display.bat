@@ -1,9 +1,21 @@
-@echo off 
+@echo off
 
-IF %1 EQU reload (
-      echo Voce fez reload de todas as config do DisplayCode
+IF %1 EQU start (
+      echo Voce inicio a config do DisplayCode
+
+      SET mode=on
 
       config.bat
+)
+
+IF %mode% NEQ on (
+      echo Voce precisa dar um display start antes de usar o DisplayCode
+
+      pause
+)
+
+IF %1 EQU create (
+      echo Voce criou as pastas das configuracoes atuais
 
       color %cor%
 
@@ -40,7 +52,8 @@ IF %1 EQU reload (
       echo configuracoes atuais:
       echo Cor: %cor%
       echo Resolucao: %resulution%
-      echo Mode de Mensagem: %message%
+      echo Modo de Mensagem: %message%
+      echo Modo de Visualicao: %visualition%
 ) ELSE (
       echo Argumento invalido use display help para ter uma ajuda.
 )
