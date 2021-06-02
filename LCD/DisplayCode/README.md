@@ -10,9 +10,11 @@ O recomendado é o donwload do FullScreen Photo Viewer para que imagens sejam ab
 
 ### Comandos
 
+- display start (da um start nas configurações do DisplayCode)
+- display reload (da um reload nas configurações do DisplayCode)
 - display help (ver como funciona o programa)
 - display list (ver a lista de imagens e gifs dentro das pastas setadas)
-- display reload (faz reload das configurações do DisplayCode)
+- display create (cria as pastas nessesarias paras as configurações atuais)
 - display config (veja suas configurações atuais do DisplayCode)
 - display img "img_name" (abrir imagem desejada da pasta Imagens)
 - display gif "gif_name" (abrir gif desejado da pasta Gifs)
