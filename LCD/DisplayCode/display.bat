@@ -1,7 +1,16 @@
+:: Desenvolvedor Oficial: VhCompany / https://github.com/VhCompany1
+:: Empresa Oficial: VhCloud / https://github.com/Vh-Cloud
+
 @echo off
 
 IF %1 EQU start (
       echo Voce inicio a config do DisplayCode
+
+      SET mode=on
+
+      config.bat
+) ELSE IF %1 EQU reload (
+      echo Voce fez reload das configuracoes do DisplayCode
 
       SET mode=on
 
@@ -13,6 +22,8 @@ IF %mode% NEQ on (
 
       pause
 )
+
+color %cor% 
 
 IF %1 EQU create (
       echo Voce criou as pastas das configuracoes atuais
