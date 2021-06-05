@@ -13,7 +13,9 @@ X cm / X cm
 
 ### Software
 
-Blender (para mode de exemplos e prototipos do projeto) 
+- Blender (para mode de exemplos e prototipos do projeto) 
+- [FullScreen Photo Viewer](https://www.baixaki.com.br/download/fullscreen-photo-viewer.htm)
+- [DisplayCode](https://github.com/VhCompany1/Projetc-Gabinete-XT00/tree/main/LCD/DisplayCode)
 
 ### Display code:
 
