@@ -2,6 +2,13 @@
 
 O display code foi um codigo criado por [VhCompany](https://github.com/VhCompany1) para o [XT00](https://github.com/VhCompany1/Projetc-Gabinete-XT00) ele faz com que uma imagem desejada abra apenas com um comando assim fica mais facil monitorar um display
 
+### Informações basicas:
+
+Desenvolvedor: [VhCompany](https://github.com/Vhcompany1) <br>
+Nome: DisplayCode <br>
+Linguagem: BatchFile <br>
+Versão: 1.7.2 <br>
+
 ### Dependencias
 
 O recomendado é o donwload do FullScreen Photo Viewer para que imagens sejam abertas em fullscreen
